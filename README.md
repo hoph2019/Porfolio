@@ -1,11 +1,9 @@
 # Portfolio
 Projects created by Hoang Huy Phan
+https://linktr.ee/hoph2019
 
 See descriptions of projects here:
 www.thefifthmeal.com/portfolio/
-
-To read my bangkok food blog:
-www.thefifthmeal.com/blog/
 
 Note.
 Sensitivity Analysis have incorrect figures for privacy reasons
